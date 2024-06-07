@@ -21,6 +21,13 @@ namespace School_Project_App
             get { return _Mobile_Number; }
             set { _Mobile_Number = value; }
         }
+        private string _Type;
+
+        public string Type
+        {
+            get { return _Type; }
+            set { _Type = value; }
+        }
         public StaffMobile_Number(int SatffId, string Mobile_Number)
         {
             this._StaffId = StaffId;

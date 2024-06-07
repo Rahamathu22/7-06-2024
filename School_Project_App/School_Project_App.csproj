@@ -53,6 +53,24 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Address.cs" />
+    <Compile Include="AddStaff.xaml.cs">
+      <DependentUpon>AddStaff.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ClassDetails.cs" />
+    <Compile Include="ExamType.cs" />
+    <Compile Include="Repositories.cs" />
+    <Compile Include="StaffAddress.cs" />
+    <Compile Include="staffDetails.cs" />
+    <Compile Include="staffMobileNumber.cs" />
+    <Compile Include="StudDetails.cs" />
+    <Compile Include="StudentsMark.cs" />
+    <Compile Include="SubAndStaffRelation.cs" />
+    <Compile Include="SubjectDetails.cs" />
+    <Page Include="AddStaff.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -84,6 +102,7 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <None Include="app.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

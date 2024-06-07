@@ -1,0 +1,15 @@
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\7-06-2024\School_Project_App\obj\Debug\School_Project_App.csprojResolveAssemblyReference.cache
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\7-06-2024\School_Project_App\obj\Debug\AddStaff.baml
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\7-06-2024\School_Project_App\obj\Debug\MainWindow.baml
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\7-06-2024\School_Project_App\obj\Debug\AddStaff.g.cs
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\7-06-2024\School_Project_App\obj\Debug\MainWindow.g.cs
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\7-06-2024\School_Project_App\obj\Debug\App.g.cs
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\7-06-2024\School_Project_App\obj\Debug\School_Project_App_MarkupCompile.cache
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\7-06-2024\School_Project_App\obj\Debug\School_Project_App.g.resources
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\7-06-2024\School_Project_App\obj\Debug\School_Project_App.Properties.Resources.resources
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\7-06-2024\School_Project_App\obj\Debug\School_Project_App.csproj.GenerateResource.Cache
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\7-06-2024\School_Project_App\bin\Debug\School_Project_App.exe.config
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\7-06-2024\School_Project_App\bin\Debug\School_Project_App.exe
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\7-06-2024\School_Project_App\bin\Debug\School_Project_App.pdb
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\7-06-2024\School_Project_App\obj\Debug\School_Project_App.exe
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\7-06-2024\School_Project_App\obj\Debug\School_Project_App.pdb

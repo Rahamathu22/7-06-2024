@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 
@@ -23,7 +24,7 @@ namespace School_Project_App
                     SqlCommand cmd = new SqlCommand();
                     con.Open();
                     cmd.Connection = con;
-                    cmd.CommandText = "insert into StudDetails(Class,Section,Year,Name,DateOfBirth,Blood_Group,AddressId) values('" + Class + "','" + Section + "','" + Year + "','" + Name + "','" + DateOfBirth + "','" + Blood_Group + "','" + AddressId + "')";
+                    cmd.CommandText = "insert into StudDetails(Class,Section,Year,Name,DateOfBirth,Blood_Group,AddressId) values('" + Class + "','" + Section + "','" + Year + "','" + Name + "','" + DateOfBirth + "','" + Blood_Group + "','" + Name + "')";
                     cmd.ExecuteNonQuery();
                 }
             }
@@ -99,7 +100,7 @@ namespace School_Project_App
                     SqlCommand cmd = new SqlCommand();
                     con.Open();
                     cmd.Connection = con;
-                    cmd.CommandText = "insert into StaffDetails values('" + Name + "','" + AddressId + "','" + Qualification + "','" + JoiningYear + "','" + PreviousExperience + "')";
+                    cmd.CommandText = "insert into StaffDetails values('" + Name + "','" +Name + "','" + Qualification + "','" + JoiningYear + "','" + PreviousExperience + "')";
                     cmd.ExecuteNonQuery();
                 }
             }

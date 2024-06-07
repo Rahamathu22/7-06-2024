@@ -14,6 +14,13 @@ namespace School_Project_App
             get { return _Name; }
             set { _Name = value; }
         }
+        private string _Dob;
+
+        public string Dob
+        {
+            get { return _Dob; }
+            set { _Dob = value; }
+        }
 
         private string _Qualification;
 
