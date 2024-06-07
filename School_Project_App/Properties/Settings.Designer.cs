@@ -26,8 +26,12 @@ namespace School_Project_App.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+<<<<<<< HEAD
         [global::System.Configuration.DefaultSettingValueAttribute("Data Source=LENOVO\\SQLEXPRESS;Initial Catalog=school_temp;Integrated Security=Tru" +
             "e")]
+=======
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-BHCKS8G;Initial Catalog=School;Integrated Security=True")]
+>>>>>>> 1a0ca63ff62f97fecc9546ca580420075c765edb
         public string Data {
             get {
                 return ((string)(this["Data"]));

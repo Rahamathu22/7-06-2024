@@ -9,12 +9,21 @@ School_Project_App
 none
 false
 DEBUG;TRACE
+<<<<<<< HEAD
 C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\7-06-2024\School_Project_App\App.xaml
 2-1819933497
 
 18-1095403573
 121654848548
 AddStaff.xaml;MainWindow.xaml;
+=======
+c:\users\rahamath\documents\visual studio 2012\Projects\School_Project_App\School_Project_App\App.xaml
+21940766039
+
+18-764258155
+121654848548
+AddStudent.xaml;MainWindow.xaml;
+>>>>>>> 1a0ca63ff62f97fecc9546ca580420075c765edb
 
 False
 

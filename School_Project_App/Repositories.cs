@@ -24,7 +24,11 @@ namespace School_Project_App
                     SqlCommand cmd = new SqlCommand();
                     con.Open();
                     cmd.Connection = con;
+<<<<<<< HEAD
                     cmd.CommandText = "insert into StudDetails(Class,Section,Year,Name,DateOfBirth,Blood_Group,AddressId) values('" + Class + "','" + Section + "','" + Year + "','" + Name + "','" + DateOfBirth + "','" + Blood_Group + "','" + Name + "')";
+=======
+                    cmd.CommandText = "insert into StudDetails(Class,Section,Year,Name,DateOfBirth,Blood_Group,AddressId) values('" + Class + "','" + Section + "','" + Year + "','" + Name + "','" + DateOfBirth + "','" + Blood_Group + "')";
+>>>>>>> 1a0ca63ff62f97fecc9546ca580420075c765edb
                     cmd.ExecuteNonQuery();
                 }
             }
@@ -100,7 +104,11 @@ namespace School_Project_App
                     SqlCommand cmd = new SqlCommand();
                     con.Open();
                     cmd.Connection = con;
+<<<<<<< HEAD
                     cmd.CommandText = "insert into StaffDetails values('" + Name + "','" +Name + "','" + Qualification + "','" + JoiningYear + "','" + PreviousExperience + "')";
+=======
+                    cmd.CommandText = "insert into StaffDetails values('" + Name + "','" + Qualification + "','" + JoiningYear + "','" + PreviousExperience + "')";
+>>>>>>> 1a0ca63ff62f97fecc9546ca580420075c765edb
                     cmd.ExecuteNonQuery();
                 }
             }
