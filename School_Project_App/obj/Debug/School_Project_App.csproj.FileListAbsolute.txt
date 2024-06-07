@@ -1,0 +1,15 @@
+c:\users\rahamath\documents\visual studio 2012\Projects\School_Project_App\School_Project_App\obj\Debug\School_Project_App.csprojResolveAssemblyReference.cache
+c:\users\rahamath\documents\visual studio 2012\Projects\School_Project_App\School_Project_App\obj\Debug\AddStudent.baml
+c:\users\rahamath\documents\visual studio 2012\Projects\School_Project_App\School_Project_App\obj\Debug\MainWindow.baml
+c:\users\rahamath\documents\visual studio 2012\Projects\School_Project_App\School_Project_App\obj\Debug\AddStudent.g.cs
+c:\users\rahamath\documents\visual studio 2012\Projects\School_Project_App\School_Project_App\obj\Debug\MainWindow.g.cs
+c:\users\rahamath\documents\visual studio 2012\Projects\School_Project_App\School_Project_App\obj\Debug\App.g.cs
+c:\users\rahamath\documents\visual studio 2012\Projects\School_Project_App\School_Project_App\obj\Debug\School_Project_App_MarkupCompile.cache
+c:\users\rahamath\documents\visual studio 2012\Projects\School_Project_App\School_Project_App\obj\Debug\School_Project_App.g.resources
+c:\users\rahamath\documents\visual studio 2012\Projects\School_Project_App\School_Project_App\obj\Debug\School_Project_App.Properties.Resources.resources
+c:\users\rahamath\documents\visual studio 2012\Projects\School_Project_App\School_Project_App\obj\Debug\School_Project_App.csproj.GenerateResource.Cache
+c:\users\rahamath\documents\visual studio 2012\Projects\School_Project_App\School_Project_App\bin\Debug\School_Project_App.exe.config
+c:\users\rahamath\documents\visual studio 2012\Projects\School_Project_App\School_Project_App\bin\Debug\School_Project_App.exe
+c:\users\rahamath\documents\visual studio 2012\Projects\School_Project_App\School_Project_App\bin\Debug\School_Project_App.pdb
+c:\users\rahamath\documents\visual studio 2012\Projects\School_Project_App\School_Project_App\obj\Debug\School_Project_App.exe
+c:\users\rahamath\documents\visual studio 2012\Projects\School_Project_App\School_Project_App\obj\Debug\School_Project_App.pdb
